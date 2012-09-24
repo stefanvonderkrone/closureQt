@@ -6,6 +6,8 @@
 
 QT       += core gui
 
+CONFIG += static
+
 TARGET = closureQt
 TEMPLATE = app
 
